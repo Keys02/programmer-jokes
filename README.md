@@ -7,3 +7,5 @@
 **Joke 3**: Meet Bob, the guy whose bank account is longer than an unsigned int.
 
 **Joke 4**: Bob's relationship advice was so terrible that I immediately redirected his opinion to /dev/null
+
+**Joke 5**: It's called Assembly, no one slept on my keyboard.
