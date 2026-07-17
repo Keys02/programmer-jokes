@@ -10,4 +10,4 @@
 
 **Joke 5**: It's called Assembly, no one slept on my keyboard.
 
-**Joke 6**: I missed the standup meeting because I spent the whole time looking for Room 404.
+**Joke 6**: I missed the standup meeting because I spent the whole time looking for room 404.
